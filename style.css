@@ -1,3 +1,9 @@
 body {
     background-size: 20em;
 }
+h1 {
+    background-color: cyan;
+}
+h2 {
+    background-color: deeppink;
+}
